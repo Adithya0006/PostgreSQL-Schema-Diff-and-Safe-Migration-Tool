@@ -6,7 +6,7 @@ Think of it like "track changes" for a database structure.
 
 ---
 
-## What it does, in plain English
+## What it does,
 
 1. Connects to two databases: the **old** one (the one you want to update) and the **new** one (the one you want to match).
 2. Reads the structure of both: tables, columns, constraints (primary keys, foreign keys, unique, check) and indexes.
